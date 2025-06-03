@@ -319,4 +319,4 @@ Built with ❤️ using modern web technologies and best practices.
 
 ## 📸 Preview
 
-![Preview](images/image.png)
+![Preview](./images//image.png)
