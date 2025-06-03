@@ -1,5 +1,7 @@
 # TodoApp - Full-Stack Task Management Application
 
+![TodoApp Preview](images/image.png)
+
 A modern, minimalistic todo application built with Next.js, TypeScript, Express, and Tailwind CSS. This project demonstrates clean architecture, separation of concerns, and professional development practices.
 
 ## 🚀 Features

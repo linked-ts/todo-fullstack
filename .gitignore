@@ -22,7 +22,8 @@ dist/
 # Static files
 public/*.svg
 
-# Images
+# Images (exclude preview image)
 images/*.png
+!images/image.png
 
 tasks.json
